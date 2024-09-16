@@ -1,0 +1,3 @@
+Mode,Current (A),Voltage (V),End Current (A),End SOC (%),Timer (s),Min Temperature (℃),Max Temperature (℃),GOTO Step Number,GOTO REPEAT,Next Step
+CHARGING,69,57.7,5,,,,,,,NEXT
+REST,,,,,1800,,,,,STOP
